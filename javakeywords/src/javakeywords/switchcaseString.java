@@ -5,8 +5,7 @@ public class switchcaseString {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 String name="TEAM";
-switch
-(name.toLowerCase())
+switch(name.toLowerCase())
 {
 case "author":
 	System.out.println("Vikas");
